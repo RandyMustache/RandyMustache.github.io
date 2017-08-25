@@ -1,7 +1,7 @@
 ---
+title: Latest Posts
+permalink: "/portfolio/"
 layout: archive
-permalink: /portfolio/
-title: "Latest Posts"
 ---
 
 <div class="tiles">

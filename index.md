@@ -1,7 +1,7 @@
 ---
+title: Latest Updates
+permalink: "/"
 layout: archive
-permalink: /
-title: "Latest Updates"
 ---
 
 <div class="tiles">

@@ -1,14 +1,12 @@
 ---
-layout: article
-title: "XML Parser for Captivate"
-date: 2017-02-23
+title: XML Parser for Captivate
+date: 2017-02-23 00:00:00 Z
 categories:
-  - Captivate
-  - Development
+- Captivate
+- Development
+layout: article
 description: 
 image: 2017-02-23-xml.jpg
-
-
 ---
 
 ## XML Parser for Captivate

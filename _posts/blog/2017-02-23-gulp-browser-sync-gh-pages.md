@@ -1,14 +1,13 @@
 ---
-layout: article
-title: "Gulp and Browser Sync with Jekyll and GitHub Pages"
-date: 2017-02-23
+title: Gulp and Browser Sync with Jekyll and GitHub Pages
+date: 2017-02-23 00:00:00 Z
 categories:
-  - Web
-  - Development
+- Web
+- Development
+layout: article
 description: 
 image: browsersync_lg.png
 image-sm: browsersync_lg.png
-
 ---
 
 ![Browsersync](/assets/images/browsersync_lg.png)

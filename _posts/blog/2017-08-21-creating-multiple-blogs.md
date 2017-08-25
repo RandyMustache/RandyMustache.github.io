@@ -1,9 +1,10 @@
 ---
+title: Create multiple blogs on a single instance of Jekyll
+date: 2017-08-21 00:00:00 Z
+tags:
+- development
 layout: article
-title: "Create multiple blogs on a single instance of Jekyll"
-excerpt: ""
-tags: development
-
+excerpt: ''
 ---
 
 I am new to Jekyll, so I thought it would be a great idea to document some challenges I have overcome while building this website so other newcomers can learn off my mistakes (they are many).

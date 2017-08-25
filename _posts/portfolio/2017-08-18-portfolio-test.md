@@ -1,10 +1,12 @@
 ---
+title: Global Game Jam 2016
+date: 2017-08-18 00:00:00 Z
+tags:
+- development
 layout: article
-title: "Global Game Jam 2016"
-excerpt: "From January 20th to January 22nd 2016 I participated in the Global Game Jam. Hosted here in Canberra at the AIE."
-tags: development
+excerpt: From January 20th to January 22nd 2016 I participated in the Global Game
+  Jam. Hosted here in Canberra at the AIE.
 portfolio: portfolio
-
 ---
 
 ![Raceline Level 1](/images/bio-photo.jpg)
