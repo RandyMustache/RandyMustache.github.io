@@ -2,6 +2,9 @@
 title: Mitchell Smith
 timezone: Australia/Sydney
 collections:
+  portfolio:
+    title: Portfolio
+    output: true
   posts:
     title: Posts
     output: true
