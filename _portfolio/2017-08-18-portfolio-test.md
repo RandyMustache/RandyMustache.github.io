@@ -1,6 +1,6 @@
 ---
 title: Global Game Jam 2016
-date: 2017-08-18 00:00:00 Z
+date: 2017-08-18 10:00:00 +10:00
 tags:
 - development
 layout: article
