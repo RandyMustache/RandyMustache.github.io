@@ -1,6 +1,6 @@
 ---
 title: CBT Wrapper
-date: '2017-08-25 00:29:00 +0000'
+date: 2017-08-25 10:29:00 +10:00
 categories:
 - Development
 portfolio: 
