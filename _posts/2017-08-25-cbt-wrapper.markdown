@@ -9,7 +9,8 @@ layout: article
 
 Test for portfolio working
 
-<a href="file:///D:\Test.rss">RSS</a>
+
+<a href="file:///C:\Users\mitch\Documents">RSS</a>
 
 <script src="//rss.bloople.net/?url=file%3A%2F%2F%2FD%3A%5CTest.rss&showtitle=false&type=js">A</script>
 
