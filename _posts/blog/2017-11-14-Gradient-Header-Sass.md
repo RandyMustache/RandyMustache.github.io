@@ -21,20 +21,20 @@ This was the answer.
 
 In the mixin you define the background for the various browsers, and the variables for each aspect of the gradient. 
 
-'''scss
+```scss
 @mixin linear-gradient($top-color, $bottom-color, $top-opacity, $bottom-opacity) {
   background: -moz-linear-gradient(top, rgba($top-color, $top-opacity) 0%, rgba($bottom-color, $bottom-opacity) 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba($top-color, $top-opacity) 0%, rgba($bottom-color, $bottom-opacity) 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, rgba($top-color, $top-opacity) 0%, rgba($bottom-color, $bottom-opacity) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{ie-hex-str(rgba($top-color, $top-opacity))}', endColorstr='#{ie-hex-str(rgba($bottom-color, $bottom-opacity))}',GradientType=0 ); /* IE6-9 */
 }
-'''
+```
 
 To use it, you just include this in the class you want to use it in. It's for a header on mine, could be a button on yours.
 
-'''scss
+```scss
 @include linear-gradient(black, grey, 1, 0);
-'''
+```
 
 In the brackets you are defining top colour, bottom colour, top transparency and bottom transparency in that order. 
 
