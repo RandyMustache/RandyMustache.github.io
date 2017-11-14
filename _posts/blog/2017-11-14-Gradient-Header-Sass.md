@@ -1,12 +1,12 @@
 ---
 title: Creating a Header with a gradient in Sass
-date: 2017-11-14
+date: 2017-11-14 00:00:00 +11:00
 tags:
-    - development
-    - SASS
+- development
+- SASS
 layout: article
-excerpt: 'Creating a gradient that will work across multiple browsers with transparancy'
-image: /2017/Nov/header.jpg
+excerpt: Creating a gradient that will work across multiple browsers with transparancy
+image: "/2017/Nov/header.jpg"
 ---
 
 Recently I got acquainted with SASS building a new website for my company. Like many before me, I am never looking back. Gone are my nightmare CSS files, replaced with neat folders and lots of smaller files each defining a single page (or part of page). Life is good.
